@@ -18,9 +18,9 @@ pip install -r requirements.txt
 
 To download video :
 ```bash
-python3.10 vid_dl.py https://youtu.be/dQw4w9WgXcQ
+python3.10 vid_dl.py https://youtu.be/dQw4w9WgXcQ en
 ```
 To download playlist :
 ```bash
-python3.10 playlist_dl.py url
+python3.10 playlist_dl.py url lang
 ```
