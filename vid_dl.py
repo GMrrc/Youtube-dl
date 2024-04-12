@@ -45,7 +45,7 @@ def Download(link, save_path):
     print("Download is completed successfully")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 2:
         print("Usage: python script.py <url> <lang>")
         sys.exit(1)
     
